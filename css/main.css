@@ -1,0 +1,148 @@
+body {
+  font-family: sans-serif;
+  padding-left: 250px;
+}
+
+.phone {
+  float: left;
+}
+
+.logo {
+  width: 250px;
+  padding-left: 50px;
+}
+
+.main-text-box {
+  border: lightgrey 1px solid;
+  width: 350px;
+  height: 475px;
+  margin-left: 470px;
+}
+
+.intro {
+  text-align: center;
+  color: grey;
+  font-style: normal;
+  font-size: 16px;
+  margin-top: -8px;
+}
+
+.facebook-login {
+  background-color: rgb(56, 131, 219);
+  color: white;
+  padding: 5px 0px;
+  margin: 0px 40px;
+  width: 270px;
+  text-align: center;
+  font-family: sans-serif;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+/*.line1 {
+  width: 100px;
+  height: 1px;
+  border-top: lightgrey 1px solid;
+  margin: 20px 0px 0px 40px;
+  display: flex;*/
+
+
+.or-line {
+  text-align: center;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+/*.line2 {
+  width: 100px;
+  height: 1px;
+  border-top: lightgrey 1px solid;
+  margin: 20px -40px 0px 210px;
+  display: flex;
+}*/
+
+.form {
+  margin-left: 40px;
+  width: 200px;
+  font-size: 20px;
+}
+
+.submit-areas {
+  width: 245px;
+  text-align: left;
+  padding: 10px;
+  margin: 5px 5px 5px 0px;
+}
+
+.sign-up {
+  background-color: rgb(56, 131, 219);
+  color: white;
+  padding: 5px 10px;
+  margin: 0px 40px;
+  text-align: center;
+  font-family: sans-serif;
+  border-radius: 5px;
+  font-size: 14px;
+  width: 270px;
+}
+
+.privacy-policy {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 12px;
+  color: grey;
+}
+
+.secondary-text-box {
+  margin-top: 20px;
+  width: 350px;
+  height: 40px;
+  border: lightgrey 1px solid;
+  margin-left: 470px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.log-in {
+  color: rgb(56, 131, 219);
+}
+
+.get-the-app {
+  text-align: center;
+  margin-left: 470px;
+  width: 350px;
+  padding: 20px 0px;
+}
+
+
+.android {
+  height: 40px;
+  padding-bottom: 20px;
+}
+
+.iphone {
+  height: 40px;
+  padding-left: 70px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  padding-top: 20px;
+  text-align: center;
+  width: 822px;
+  color: navy;
+  font-family: sans-serif;
+  font-size: 13px;
+}
+
+.copyright {
+  color: lightgrey;
+  padding-left: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 13px;
+}
+
+.footer div {
+  padding: 5px;
+}
