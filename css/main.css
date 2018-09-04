@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: arial;
   padding-left: 250px;
 }
 
@@ -34,7 +34,6 @@ body {
   margin: 0px 40px;
   width: 270px;
   text-align: center;
-  font-family: sans-serif;
   border-radius: 5px;
   font-size: 14px;
 }
@@ -49,8 +48,10 @@ body {
 
 .or-line {
   text-align: center;
-  font-size: 14px;
+  font-size: 11px;
   padding-bottom: 10px;
+  font-weight: bold;
+  color: grey;
 }
 
 /*.line2 {
@@ -65,13 +66,17 @@ body {
   margin-left: 40px;
   width: 200px;
   font-size: 20px;
+  color: lightgrey;
 }
 
 .submit-areas {
-  width: 245px;
+  color: lightgrey;
+  width: 262px;
+  height: 30px;
   text-align: left;
-  padding: 10px;
+  /*padding: 10px;*/
   margin: 5px 5px 5px 0px;
+  font-size: 14px;
 }
 
 .sign-up {
@@ -80,7 +85,6 @@ body {
   padding: 5px 10px;
   margin: 0px 40px;
   text-align: center;
-  font-family: sans-serif;
   border-radius: 5px;
   font-size: 14px;
   width: 270px;
@@ -132,15 +136,16 @@ body {
   width: 822px;
   color: navy;
   font-family: sans-serif;
-  font-size: 13px;
+  font-size: 11px;
+  font-weight: bold;
 }
 
 .copyright {
-  color: lightgrey;
-  padding-left: 40px;
+  color: grey;
+  margin-left: 100px;
   font-weight: bold;
   font-family: sans-serif;
-  font-size: 13px;
+  font-size: 11px;
 }
 
 .footer div {
